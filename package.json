@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/kr1sp1n/stream-adventure-solutions",
   "dependencies": {
-    "through": "~2.3.4"
+    "through": "~2.3.4",
+    "split": "~0.2.10"
   }
 }
